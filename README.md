@@ -23,6 +23,7 @@ Berikut adalah variabel-variabel yang terdapat dalam dataset.
 * **movie_facebook_likes** : jumlah likes pada halaman Facebook film
 
 **Langkah-langkah Preprocessing**
+
 Berikut adalah langkah-langkah preprocessing dataset movie:
 
 1.	Memuat Data
